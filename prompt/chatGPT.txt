@@ -1,0 +1,88 @@
+FinQuest
+
+---
+
+Você é um roteirista de podcast, e vamos criar um podcast de falando sobre administração e finanças e eu gostaria de uma ajuda sua para criar o roteiro.
+O nome eu já defini,  e quero um podcast dinamico
+
+O podcast vai falar sobre dicas de como melhorar a saúde financeira da empresa
+
+{REGRAS}
+- O nome deve ser enxuto, já escolhido: 'FinQuest'. Você deve criar um subtítulo
+- O subtitulo deve conter alguma palavra forte que remeta a finanças
+
+{REGRAS NEGATIVAS}
+
+- Não quero que o título contenha palavras em inglês
+- Não quero que utilize nenhuma das palavras nessa lista: papel, valor
+
+
+====================
+RETORNO CHATGPT
+====================
+
+FinQuest: Gestão Administrativa e Financeira Estratégica
+
+Esse título e subtítulo são dinâmicos e direto ao ponto, destacando a ideia central do podcast, que é ajudar a melhorar a saúde financeira das empresas de forma estratégica.
+
+==========================================================================================================================================================================================================================
+
+
+# Episódio de Podcast
+
+
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em Gestão Administrativa e Financeira Estratégica cujo o nome é "FinQuest: Gestão Administrativa e Financeira Estratégica" e tem foco em dinheiro, com o público alvo de empresas recém nascidas dirigidas por jovens empreendedores.
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+
+{REGRAS}
+- no bloco INTRODUÇÃO - verifique uma introdução sobre o tema que vamos falar
+- no bloco CURISOIDADE 1 - fale sobre o tema e remeta sobre ele de maneira fluida
+- no bloco CURISOIDADE 2 - fale sobre o tema e remeta sobre ele de maneira fluida
+- no bloco FINALIZAÇÃO - uma despedida cool, com final "Aqui é o Anderson e esse foi o 'FinQuest' inclusive esse será o nome do podcast com o tema de hoje sendo Gestão Administrativa e Financeira Estratégica
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Anderson Alves
+- O podcast deve ser curto
+- seja dinâmico e tenha o publico jovem
+
+{REGRAS NEGATIVAS}
+- não use muitos termos técnicos não ultrapasse 5 minutos
+- Não ultrapasse 3 minutos de duração
+
+====================
+RETORNO CHATGPT
+====================
+
+Claro! Vamos tornar o podcast mais dinâmico e com uma linguagem mais jovem e descontraída, mantendo o foco no tema de maneira leve e prática. Aqui está o novo roteiro para o FinQuest:
+
+Roteiro de Podcast - FinQuest: Gestão Administrativa e Financeira Estratégica
+
+[INTRODUÇÃO]
+Som animado de introdução
+"Fala, galera! Bem-vindos ao FinQuest, o podcast onde descomplicamos a gestão financeira e administrativa e mostramos como você pode usar essas ferramentas para turbinar seu negócio! Eu sou o Anderson Alves, e no episódio de hoje vamos falar sobre um tema super importante: Gestão Administrativa e Financeira Estratégica. Como usar as finanças de forma inteligente e estratégica para fazer sua empresa crescer? Bora descobrir!"
+
+[CURIOSIDADE 1]
+Som de transição empolgante
+"Então, vamos lá! Você já parou pra pensar que gestão financeira não é só sobre controlar as contas, mas sobre usar a grana da forma mais inteligente possível? Imagina que você tem um super produto, mas não sabe como usar o dinheiro que entra na sua empresa. Aí a coisa começa a desandar, né? A gestão estratégica te ajuda a tomar decisões que vão além do simples ‘pagar as contas’. Ela te mostra o caminho de como fazer o dinheiro trabalhar a seu favor – investir de maneira esperta, cortar o que não precisa e garantir que a empresa esteja sempre no caminho certo."
+
+[CURIOSIDADE 2]
+Som de transição leve
+"E se eu te disser que a tecnologia pode ser sua melhor amiga na gestão financeira? Isso mesmo, hoje tem ferramentas, como sistemas de gestão financeira e até IA, que ajudam a planejar e a prever o futuro da empresa com muito mais precisão. Por exemplo, se você usar um sistema financeiro bacana, você pode ver como o dinheiro vai fluir, saber onde está sobrando e onde está faltando, tudo em tempo real. E isso faz com que a sua empresa tenha muito mais controle, sem perder a agilidade. Ou seja, você não está só controlando as finanças, você está dominando o jogo!"
+
+[FINALIZAÇÃO]
+Som de transição animada
+"É isso aí, pessoal! Se você quer que sua empresa seja realmente estratégica, precisa começar a olhar para as finanças de forma inteligente e usar a tecnologia a seu favor. No FinQuest, a gente te mostra como fazer isso de um jeito simples e descomplicado. Se curtiu, compartilha com a galera, e se liga nos próximos episódios! Aqui é o Anderson Alves, e esse foi o FinQuest! Valeu e até a próxima!"
+
+Som de encerramento leve e animado
+
+Fim do Episódio
+
+Agora o roteiro está mais dinâmico, leve e com uma linguagem voltada para o público jovem, mantendo o foco no tema de forma descontraída e acessível. O que achou dessa versão?
+
+
+==========================================================================================================================================================================================================================
